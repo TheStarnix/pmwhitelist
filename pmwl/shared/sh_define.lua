@@ -1,0 +1,12 @@
+--MATERIALS DEFINE
+resource.AddFile("starnix/pm_whitelist/frame_base.png")
+resource.AddFile("starnix/pm_whitelist/frame_close.png")
+resource.AddFile("starnix/pm_whitelist/frame_edit.png")
+resource.AddFile("starnix/pm_whitelist/frame_documents.png")
+resource.AddFile("starnix/pm_whitelist/frame_avatarborder.png")
+resource.AddFile("starnix/pm_whitelist/frame_check.png")
+resource.AddFile("starnix/pm_whitelist/frame_combobox.png")
+resource.AddFile("starnix/pm_whitelist/frame_home.png")
+resource.AddFile("starnix/pm_whitelist/frame_info.png")
+resource.AddFile("starnix/pm_whitelist/frame_remove.png")
+resource.AddFile("starnix/pm_whitelist/frame_textentry.png")
